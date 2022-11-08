@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkvorcovKV
 - 👀 I’m interested in system administration and software testing.
-- 🌱 I’m currently learning in Nrtology.
+- 🌱 I’m currently learning in Netology.
 - 💞️ I’m looking to collaborate on IT company.
 - 📫 How to reach me e-mail: skvorcovkv@mail.ru
 
